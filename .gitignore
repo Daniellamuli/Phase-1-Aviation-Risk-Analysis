@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Project Specific Data Files to Ignore ---
+AviationData.csv
+AviationData_Cleaned_1990_Plus.csv
+Aviation_Risk_Analysis_Final.csv
